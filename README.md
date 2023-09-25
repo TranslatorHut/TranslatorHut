@@ -1,2 +1,2 @@
-# TranslatorHut
-Translate any project together!
+# Translator Hut
+Translate any project, together!
